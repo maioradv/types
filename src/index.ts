@@ -1,5 +1,6 @@
 export * from './domain/accounts'
 export * from './domain/auth'
+export * from './domain/gid'
 export * from './domain/metafield'
 export * from './domain/translation'
 export * from './utils/types'

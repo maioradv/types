@@ -1,3 +1,4 @@
+export * from './domain/dashboards'
 export * from './domain/accounts'
 export * from './domain/auth'
 export * from './domain/gid'
